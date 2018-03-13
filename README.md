@@ -1,1 +1,3 @@
-# github_test
+### Je clone ce fork plutôt que le projet original afin de pouvoir travailler en local et bidouiller différentes branches, les envoyer vers GitHub sur mon fork sans risquer de gêner qui que ce soit. Quand je souhaite mêler mon code à celui des autres, j’envoie alors des pull requests vers le dépôt principal.
+
+Une fois que c’est fait, je dispose d’une version à date du dépôt et je peux commencer à travailler sur une issue. 
